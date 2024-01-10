@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhdipendra&label=Profile%20views&color=0e75b6&style=flat" alt="singhdipendra" /> </p>
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 👨‍💻 All of my projects are available at [https://singhdipendra.github.io/project_portfolio/](https://singhdipendra.github.io/project_portfolio/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React.JS**
 
 - 📫 How to reach me **dipendravishnu@gmail.com**
 
