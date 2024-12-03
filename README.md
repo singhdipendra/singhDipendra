@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEXT.JS**
 
-- 👨‍💻 All of my projects are available at [ project_portfolio](https://singhdipendra.github.io/project_portfolio/)
+- 👨‍💻 All of my projects are available at [ project_portfolio](https://personal-portfolio-three-cyan.vercel.app/)
 
 - 💬 Ask me about **React.JS**
 
